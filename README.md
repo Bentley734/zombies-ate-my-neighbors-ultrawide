@@ -78,4 +78,4 @@ Some of the game is still being emulated, and only a very small portion of what 
 * [Bloody Disgusting ROM Hack](https://www.romhacking.net/hacks/4306/) - inspiration for game over blood color setting
 * [Reverse Inventory Cycling ROM Hack](https://www.romhacking.net/hacks/4318/) - inspiration for inventory cycling setting
 
-* [![Verified developer on RecompStore](https://recompstore.com/assets/press/verified-dark.svg)](https://recompstore.com/dev/bentley734)
+[![Verified developer on RecompStore](https://recompstore.com/assets/press/verified-dark.svg)](https://recompstore.com/dev/bentley734)
